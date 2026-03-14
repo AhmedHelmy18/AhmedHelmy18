@@ -1,46 +1,58 @@
 # Hi there 👋, I'm Ahmed Helmy
 
-### Junior Flutter Developer 📱
+### Junior Flutter Developer | Mobile App Enthusiast 📱
 
-Hello! I'm a 21-year-old junior Flutter developer with a passion for creating beautiful and responsive mobile applications. I'm actively looking for internships and junior-level positions in order to improve my skills, learn from experienced professionals, and contribute to exciting projects.
+I am a highly motivated and detail-oriented Junior Flutter Developer with a strong foundation in building cross-platform mobile applications. At 21 years old, my journey in software development has been fueled by a deep passion for crafting seamless, user-centric experiences. I thrive on solving complex problems and transforming innovative ideas into beautiful, responsive, and robust applications.
+
+Currently, I am actively seeking internships and junior-level roles where I can contribute my skills, collaborate with experienced professionals, and continue to grow as an engineer. I am a quick learner, adaptable to new technologies, and committed to writing clean, maintainable code.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Dart, C++, C, JavaScript
-- **Frameworks & Libraries:** Flutter, React
-- **Tools:** Git, GitHub, VS Code
+I have cultivated a versatile skill set, focusing on modern mobile development and foundational computer science principles:
+
+- **Mobile Development:** Flutter, Dart
+- **Programming Languages:** Dart, C++, C, JavaScript
+- **Web Technologies:** React, HTML, CSS
+- **Tools & Version Control:** Git, GitHub, VS Code, Android Studio
+- **Core Competencies:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Problem Solving, State Management (Provider, Bloc/Cubit), API Integration, Responsive UI Design.
 
 ---
 
 ### 🚀 Highlighted Projects
 
-Here are some of the projects I've been working on:
+Here are some of the key projects I have developed, demonstrating my ability to build comprehensive applications:
 
 *   **[Whale-Chat](https://github.com/AhmedHelmy18/Whale-Chat)**
-    A chat application built with Flutter/Dart to help people communicate effectively.
-*   **[Scholar-Chat](https://github.com/AhmedHelmy18/Scholar-Chat)**
-    A messaging application designed for students and scholars.
+    A robust chat application built with Flutter and Dart, designed to facilitate seamless and real-time communication between users.
+*   **[Whale-Staff](https://github.com/AhmedHelmy18/Whale-Staff)**
+    An internal staff management application aimed at streamlining employee operations and improving organizational efficiency.
+*   **[Whale-Stock](https://github.com/AhmedHelmy18/Whale-Stock)**
+    A comprehensive inventory and stock management solution, allowing businesses to track their assets effectively.
+*   **[Whale-Task](https://github.com/AhmedHelmy18/Whale-Task)**
+    A productivity application built to help users manage their daily tasks, deadlines, and project workflows efficiently.
+*   **TwoAxis Finance**
+    A finance management application designed to help users track their expenses, manage budgets, and visualize their financial data. (Note: Project details available upon request).
 *   **[Movie-App](https://github.com/AhmedHelmy18/Movie-App)**
-    A mobile application for browsing and discovering movies.
-*   **[news_app](https://github.com/AhmedHelmy18/news_app)**
-    A news application built in C++.
-*   **[Calculator_App](https://github.com/AhmedHelmy18/Calculator_App)**
-    A handy calculator application for daily use.
+    A mobile application for browsing, searching, and discovering information about movies, utilizing external APIs.
 *   **[Advent-of-Code](https://github.com/AhmedHelmy18/Advent-of-Code)**
-    My solutions for the Advent of Code programming puzzles, implemented in Dart.
+    A repository showcasing my algorithmic problem-solving skills through solutions to the Advent of Code puzzles, implemented in Dart.
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHelmy18&show_icons=true&theme=radium)
+![Ahmed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHelmy18&layout=compact&theme=radium)
 
 ---
 
-### 📫 How to reach me
+### 📫 Let's Connect!
 
+I am always open to discussing new opportunities, collaborations, or tech in general.
+
+- **Portfolio:** [ahmeddev.pages.dev](https://ahmeddev.pages.dev/)
 - **GitHub:** [@AhmedHelmy18](https://github.com/AhmedHelmy18)
 
-*Feel free to reach out to me for any internship opportunities, collaborations, or just to say hi!*
+*Feel free to reach out—I'd love to hear from you!*
