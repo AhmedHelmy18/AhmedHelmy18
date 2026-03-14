@@ -12,12 +12,12 @@ Currently, I am actively seeking internships and junior-level roles where I can 
 
 I have cultivated a versatile skill set, focusing on modern mobile development and foundational computer science principles:
 
-**Languages:** Dart  
-**Frameworks & SDKs:** Flutter  
-**State Management:** BLoC/Cubit, Provider  
-**Backend & Databases:** Firebase (Auth, Firestore, Storage), RESTful APIs, SQLite, Hive  
-**Tools & Platforms:** Git & GitHub, Postman, Figma, Android Studio, VS Code  
-**Core Competencies:** Clean Architecture, SOLID Principles, Agile Methodologies, Responsive UI/UX Implementation  
+- **Languages:** Dart  
+- **Frameworks & SDKs:** Flutter  
+- **State Management:** BLoC/Cubit, Provider  
+- **Backend & Databases:** Firebase (Auth, Firestore, Storage), RESTful APIs, SQLite, Hive  
+- **Tools & Platforms:** Git & GitHub, Postman, Figma, Android Studio, VS Code  
+- **Core Competencies:** Clean Architecture, SOLID Principles, Agile Methodologies, Responsive UI/UX Implementation
 
 ---
 
