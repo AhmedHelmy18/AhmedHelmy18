@@ -2,7 +2,7 @@
 
 ### Junior Flutter Developer | Mobile App Enthusiast 📱
 
-I am a highly motivated and detail-oriented Junior Flutter Developer with a strong foundation in building cross-platform mobile applications. At 21 years old, my journey in software development has been fueled by a deep passion for crafting seamless, user-centric experiences. I thrive on solving complex problems and transforming innovative ideas into beautiful, responsive, and robust applications.
+I am a highly motivated and detail-oriented Junior Flutter Developer with a strong foundation in building cross-platform mobile applications. At 22 years old, my journey in software development has been fueled by a deep passion for crafting seamless, user-centric experiences. I thrive on solving complex problems and transforming innovative ideas into beautiful, responsive, and robust applications.
 
 Currently, I am actively seeking internships and junior-level roles where I can contribute my skills, collaborate with experienced professionals, and continue to grow as an engineer. I am a quick learner, adaptable to new technologies, and committed to writing clean, maintainable code.
 
@@ -12,9 +12,8 @@ Currently, I am actively seeking internships and junior-level roles where I can 
 
 I have cultivated a versatile skill set, focusing on modern mobile development and foundational computer science principles:
 
-- **Mobile Development:** Flutter, Dart
-- **Programming Languages:** Dart, C++, C, JavaScript
-- **Web Technologies:** React, HTML, CSS
+- **Mobile Development:** Flutter
+- **Programming Languages:** Dart 
 - **Tools & Version Control:** Git, GitHub, VS Code, Android Studio
 - **Core Competencies:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Problem Solving, State Management (Provider, Bloc/Cubit), API Integration, Responsive UI Design.
 
@@ -32,7 +31,7 @@ Here are some of the key projects I have developed, demonstrating my ability to 
     A comprehensive inventory and stock management solution, allowing businesses to track their assets effectively.
 *   **[Whale-Task](https://github.com/AhmedHelmy18/Whale-Task)**
     A productivity application built to help users manage their daily tasks, deadlines, and project workflows efficiently.
-*   **TwoAxis Finance**
+*   **TwoAxis Finance (https://github.com/twoaxis/finance)**
     A finance management application designed to help users track their expenses, manage budgets, and visualize their financial data. (Note: Project details available upon request).
 
 ---
