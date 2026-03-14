@@ -34,10 +34,6 @@ Here are some of the key projects I have developed, demonstrating my ability to 
     A productivity application built to help users manage their daily tasks, deadlines, and project workflows efficiently.
 *   **TwoAxis Finance**
     A finance management application designed to help users track their expenses, manage budgets, and visualize their financial data. (Note: Project details available upon request).
-*   **[Movie-App](https://github.com/AhmedHelmy18/Movie-App)**
-    A mobile application for browsing, searching, and discovering information about movies, utilizing external APIs.
-*   **[Advent-of-Code](https://github.com/AhmedHelmy18/Advent-of-Code)**
-    A repository showcasing my algorithmic problem-solving skills through solutions to the Advent of Code puzzles, implemented in Dart.
 
 ---
 
