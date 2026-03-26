@@ -46,7 +46,7 @@ Here are some of the key projects I have developed, demonstrating my ability to 
 
 I am always open to discussing new opportunities, collaborations, or tech in general.
 
-- **Portfolio:** https://ahmeddev.pages.dev  
+- **Portfolio:** https://ahmedhelmy18.github.io/portfolio/  
 - **GitHub:** https://github.com/AhmedHelmy18  
 
 *Feel free to reach out—I'd love to hear from you!*
